@@ -28,7 +28,7 @@ This project is a Chrome extension that integrates with Gmail to automatically g
 - Great productivity tool for frequent email users.
 
 ## 📷 Screenshot
-![Gmail extension with AI Reply button](./screenshot.png)
+![Gmail extension with AI Reply button](Screenshot.png)
 
 ## 🔐 Note
 Make sure to store your Gemini API key securely in the `application.properties` file on the backend.
